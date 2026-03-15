@@ -185,7 +185,7 @@ visualize_denoising(model, test_loader)
 <img width="333" height="129" alt="image" src="https://github.com/user-attachments/assets/b7c8b1d3-7f2b-4f6a-83bf-9aca7c0dfbb0" />
 
 ## Original vs Noisy Vs Reconstructed Image
-<img width="1737" height="611" alt="image" src="https://github.com/user-attachments/assets/d48a5170-8c97-4f23-8a10-965a1796d60e" />
+![image](https://github.com/Monikaayyalusamy/DL-Autoencoder/blob/main/Screenshot%202026-03-10%20114724.png)
 
 ## RESULT
 The model successfully removed noise from images and produced clear denoised outputs.
