@@ -4,7 +4,7 @@
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
-
+A convolutional autoencoder for image denoising learns to compress images into a lower-dimensional representation and then reconstructs clean images from noisy inputs. It consists of encoder layers that extract features, a bottleneck that captures essential information, and decoder layers that reconstruct the denoised image. The model is trained to minimize the difference between the output and the clean target images. This approach effectively removes noise while preserving important details in the images.
 
 ## DESIGN STEPS
 ### STEP 1: 
